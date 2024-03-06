@@ -1,6 +1,6 @@
 # Ultra-Compressor
 
-Ultra-Compressor is an advanced npm package designed for efficient file compression and decompression, optimized for both server and client environments. Utilizing modern JavaScript features, it aims to provide maximum compression speed and effectiveness.
+Ultra-Compressor is an example for efficient file compression and decompression, optimized for both server and client environments. Utilizing modern JavaScript features, it aims to provide maximum compression speed and effectiveness.
 
 ## Overview
 
