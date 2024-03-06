@@ -1,0 +1,33 @@
+{
+  "name": "ultra-compressor",
+  "version": "1.0.0",
+  "description": "ultra-compressor is a high-performance npm package designed for file compression and decompression with maximum efficiency. It offers seamless integration for both server-side and client-side environments, enabling developers to compress and decompress files swiftly while conserving system resources.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "webpack --config webpack.config.js"
+  },
+  "keywords": [
+    "compression",
+    "decompression",
+    "file-processing",
+    "nodejs",
+    "client-side",
+    "server-side"
+  ],
+  "author": "Daniel Onions",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.24.0",
+    "babel-loader": "^8.3.0",
+    "jest": "^26.6.0",
+    "uglify-js": "^3.12.4",
+    "webpack": "^5.90.3",
+    "webpack-cli": "^4.10.0"
+  }
+}
